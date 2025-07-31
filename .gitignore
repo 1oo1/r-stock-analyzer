@@ -1,0 +1,15 @@
+.DS_Store
+
+# Backend
+/target
+.env
+.docker-compose.yml
+
+# Frontend
+/frontend/node_modules
+/frontend/dist
+/frontend/.env
+
+# Docker
+docker-compose.yaml
+db_data
